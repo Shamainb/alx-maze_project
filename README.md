@@ -20,10 +20,15 @@ Tools and Libraries
 
 Getting Started
 
-Clone the repository.
+. Clone the repository.
 
-Install SDL2 and required dependencies.
+. Install SDL2 and required dependencies.
 
-Compile the code using gcc with the provided flags.
+. Compile the code using gcc with the provided flags.
 
-Run the executable to launch the game.
+. Run the executable to launch the game.
+
+
+Credits
+Ropafadzo Shamain Bhengesa - Project Developer
+
